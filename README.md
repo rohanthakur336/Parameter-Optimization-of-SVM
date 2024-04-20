@@ -1,7 +1,7 @@
 # Assignment 5- Parameter Optimization in SVM
 ## UCS654: Predictive Analytics using Statistics
 
-Submitted By: Neelakshi Gupta,102103766, 3CO27
+Submitted By: Rohan Thakur,102103762, 3CO27
 
 ### Support Vector Machine
 In machine learning, support vector machines or SVMs are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis. It is used to find a hyperplane that best separates the two classes, or the plane that has the maximum distance from both the classes. SVM works best with smaller datasets.
@@ -31,10 +31,10 @@ The dataset used for the project is [Room Occupancy Estimation](https://archive.
 
 ### Final Result Table
 
-<img width="284" alt="result" src="https://github.com/neelakshidob/Parameter-Optimization-of-SVM/assets/99609535/f38afc75-c814-4980-91ca-b5e52c81444d">
+<img width="284" alt="result" src="https://github.com/rohanthakur336/Parameter-Optimization-of-SVM/blob/main/result.png">
 
 ### Convergence Graph
-![output](https://github.com/neelakshidob/Parameter-Optimization-of-SVM/assets/99609535/8ff6f24c-89b4-4831-8aac-5fd21f367262)
+![output](https://github.com/rohanthakur336/Parameter-Optimization-of-SVM/blob/main/output.png)
 
 
 ### Conclusion
